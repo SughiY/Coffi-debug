@@ -1,0 +1,3 @@
+{:deps {org.suskalo/coffi {:mvn/version "1.0.486"}}
+ :aliases {:dev {:jvm-opts ["--enable-native-access=ALL-UNNAMED"]}}
+ :paths ["src"]}
